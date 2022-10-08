@@ -1,1 +1,1 @@
-# odin-recipes
+Primeiro projeto do curso The Odin Project. Nesse projeto desenvolvi melhor minhas habilidades com HTML! 
